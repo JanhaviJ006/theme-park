@@ -37,10 +37,9 @@ Simulated promotions and evaluated their impact using A/B testing
 Used clustering (K-Means) to segment customers based on behavior
 Built an interactive dashboard with Streamlit to turn analysis into action
 
-<img width="903" height="505" alt="Screenshot 2025-07-24 at 12 44 25 AM" src="https://github.com/user-attachments/assets/ac21b817-33c8-4ba3-ad94-cdec089729ad" />
-<img width="903" height="422" alt="Screenshot 2025-07-24 at 12 44 17 AM" src="https://github.com/user-attachments/assets/76b68977-bb6c-4cc4-a927-d2b18ecb235b" />
-<img width="899" height="415" alt="Screenshot 2025-07-24 at 12 44 07 AM" src="https://github.com/user-attachments/assets/0b521872-4ab1-4dd9-a2ce-40de28ef2528" />
-<img width="527" height="495" alt="Screenshot 2025-07-24 at 12 43 53 AM" src="https://github.com/user-attachments/assets/18dd41c1-3a38-45b9-86da-111963a51cd6" />
-<img width="1163" height="554" alt="Screenshot 2025-07-24 at 12 43 15 AM" src="https://github.com/user-attachments/assets/d1707e5b-bc7d-4f30-92df-d4dbaa866a44" />
 <img width="1456" height="750" alt="Screenshot 2025-07-24 at 12 42 13 AM" src="https://github.com/user-attachments/assets/d769beb8-2775-4bb5-a3ad-a48bd8c1b1f4" />
-
+<img width="1163" height="554" alt="Screenshot 2025-07-24 at 12 43 15 AM" src="https://github.com/user-attachments/assets/d1707e5b-bc7d-4f30-92df-d4dbaa866a44" />
+<img width="527" height="495" alt="Screenshot 2025-07-24 at 12 43 53 AM" src="https://github.com/user-attachments/assets/18dd41c1-3a38-45b9-86da-111963a51cd6" />
+<img width="899" height="415" alt="Screenshot 2025-07-24 at 12 44 07 AM" src="https://github.com/user-attachments/assets/0b521872-4ab1-4dd9-a2ce-40de28ef2528" />
+<img width="903" height="422" alt="Screenshot 2025-07-24 at 12 44 17 AM" src="https://github.com/user-attachments/assets/76b68977-bb6c-4cc4-a927-d2b18ecb235b" />
+<img width="903" height="505" alt="Screenshot 2025-07-24 at 12 44 25 AM" src="https://github.com/user-attachments/assets/ac21b817-33c8-4ba3-ad94-cdec089729ad" />
