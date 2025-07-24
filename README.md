@@ -20,7 +20,7 @@ How to Run the Streamlit App
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/theme-park-price-optimization.git
+   git clone https://github.com/JanhaviJ006/theme-park-price-optimization.git
    cd theme-park-price-optimization
 
 2. Install all required packages:
